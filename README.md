@@ -8,9 +8,9 @@ This Privacy Policy explains how data is handled when using the mobile game **Id
 
 Idle AI is developed and published by:
 
-**[YOUR NAME]**
+**Lenz Nicklas**
 
-Contact email: **[YOUR EMAIL]**
+Contact email: **lenzanicklas@gmail.com**
 
 If you have any questions regarding privacy, you can contact me using the email address above.
 
@@ -169,6 +169,6 @@ The latest version of this Privacy Policy will always be available on the public
 
 For questions regarding this Privacy Policy:
 
-**[YOUR NAME]**
+**Lenz Nicklas**
 
-Email: **[YOUR EMAIL]**
+Email: **lenzanicklas@gmail.com**
