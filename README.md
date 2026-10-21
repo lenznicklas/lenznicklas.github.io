@@ -153,7 +153,7 @@ For questions regarding data processed directly by Google services, please refer
 
 For questions regarding Idle AI, you can contact:
 
-**[YOUR EMAIL]**
+**lenzanicklas@gmail.com**
 
 ---
 
